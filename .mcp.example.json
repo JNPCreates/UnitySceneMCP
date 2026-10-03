@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unity-scene": {
+      "command": "py",
+      "args": ["-m", "mcp_server"]
+    }
+  }
+}

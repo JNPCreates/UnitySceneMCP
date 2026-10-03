@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+build/
+dist/
+.env
+
+# Local MCP client configuration can contain machine-specific paths.
+.mcp.json
+
+# Unity/editor local files if this repo is ever opened near a Unity project.
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+*.csproj
+*.sln
